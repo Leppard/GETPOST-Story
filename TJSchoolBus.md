@@ -13,6 +13,6 @@ TONGJI SCHOOL BUS
     sno: 你的学号
     sname: 你的姓名 （学号作为唯一的身份识别，姓名对错并不影响）
     reservetime： YYYY-MM-DD (最好改成前一天显得你是前一天订的)
-    carid: 车次（1， ∞） （如果返回结果为code：0且订票不成功，把车次改成后一班就好）
+    carid: 车次（1， ∞） （如果返回结果为code:null且订票不成功，把车次往后改几班就好）
     
     
